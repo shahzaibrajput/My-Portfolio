@@ -5,7 +5,7 @@
 @layer base {
   body {
     color: black;
-    background-color: #fdf0d5 ;
+    background-color: #FDFFB6  ;
   }
 }
 @layer components {
@@ -18,20 +18,20 @@
     margin-top: 0.5rem;
     padding: 3px 10px;
     display: inline-block;
-    color: #780000;
+    color: whitesmoke;
     font-size: 15px;
   }
   .tags:last-child {
     margin-right: 0;
   }
   .tags:nth-child(1){
-  background-color: #00b4d8;
+  background-color: black;
   }
   .tags:nth-child(2){
-    background-color: #faa307;
+    background-color: black;
     }
     .tags:nth-child(3){
-      background-color: #fb6f92;
+      background-color: black;
       }
 
 }

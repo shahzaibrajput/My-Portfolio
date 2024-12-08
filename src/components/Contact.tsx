@@ -18,7 +18,8 @@ const Contact = () => {
              <IoIosContact  size={30}/> +92 3133224079
             </div>
             <div className='flex gap-3 items-center' data-aos="zoom-in-up">
-             <IoLogoLinkedin  size={30}/> <a href="https://www.linkedin.com/in/shahzaib-rajput-93360628b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">Let's Connect On Linkedin</a>
+             <IoLogoLinkedin  size={30}/> <a href="https://www.linkedin.com/in/shahzaib-rajput-93360628b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ">
+             Let&apos;s Connect On Linkedin</a>
             </div>
         </div>
         <div className='space-y-8'>
